@@ -1,0 +1,28 @@
+[
+    {
+        "id": "791844de4b161ec1",
+        "type": "json",
+        "z": "d634f077e2a86206",
+        "g": "7ccf23ac4a78427b",
+        "name": "",
+        "property": "payload",
+        "action": "",
+        "pretty": false,
+        "x": 270,
+        "y": 160,
+        "wires": [
+            [
+                "7a90cd8ffdaed28d",
+                "84dfcd06a02c6a23",
+                "78054c21a51c23bb",
+                "ad33728d6b2fa6cd",
+                "2f1683a256c3e698",
+                "c639a7e95dfe6658",
+                "1a653fe94c2cc4ae",
+                "cbf1f714622c40e7",
+                "2bf12bfb72111f22",
+                "8f9224b869e4a3f7"
+            ]
+        ]
+    }
+]
